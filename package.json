@@ -4,10 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "DK",
+  "type": "module",
   "license": "ISC",
   "dependencies": {
     "@tinkoff/invest-openapi-js-sdk": "^1.5.0",
